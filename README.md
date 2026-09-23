@@ -37,4 +37,4 @@ Files are downloaded to a `./downloads` directory by default, grouped by usernam
 * `--session-id`: Raw `sessionid` cookie value.
 * `--session-file`: Path to a text file containing the `sessionid` value.
 
-<!-- checked: 2026-09-22 -->
+<!-- checked: 2026-09-23 -->
